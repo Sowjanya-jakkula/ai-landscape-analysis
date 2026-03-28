@@ -8,6 +8,7 @@ This project analyzes the AI tools ecosystem from 2022 to 2026, focusing on grow
 
 ## 🛠 Tools Used
 - Excel
+- Python
 - SQL
 - Power BI
 
@@ -29,10 +30,10 @@ This project analyzes the AI tools ecosystem from 2022 to 2026, focusing on grow
 - dashboard.pbix → Power BI dashboard  
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 🎯 Conclusion
 The AI industry is rapidly expanding with diverse tools across multiple categories. Pricing flexibility and API availability play a key role in tool adoption and popularity.
 
 ## 📄 Resume
-[Download Resume](PASTE-YOUR-RESUME-LINK-HERE)
+[Download Resume](https://github.com/Sowjanya-jakkula/resume/blob/main/Resume.pdf)
